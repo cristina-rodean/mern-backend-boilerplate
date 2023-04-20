@@ -22,7 +22,7 @@ There is also a sample example for a [model](https://developer.mozilla.org/en-US
 
 This project uses [mongoose](https://mongoosejs.com/), which is a is a JavaScript object-oriented programming library that creates a connection between MongoDB and the Node.js JavaScript runtime environment.
 
-You can use a [MongoDB Atlas free tier cluster](https://www.mongodb.com/atlas/database) that allows you to quickly deploy and use a cloud datanase without worying about all the complexity.
+You can use a [MongoDB Atlas free tier cluster](https://www.mongodb.com/atlas/database) that allows you to quickly deploy and use a cloud database without worying about all the complexity.
 
 ## Learn More
 
